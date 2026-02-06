@@ -6,7 +6,7 @@ This folder contains my foundational Python scripts and demonstrates basic input
 - **User Input:** Handling real-time data entry via the `input()` function.
 - **Variable Management:** Data storage using descriptive naming conventions.
 - **Formatting:** String concatenation and standardized output formatting.
-- **Debugging:** Troubleshooting common `NameError` expectations during the development process.
+- **Debugging:** Troubleshooting common `NameError` exceptions during the development process.
 
 ## 📂 Featured Assignment: User Interaction & Data Storage (hw2.py)
   - In this assignment, I practiced capturing user input and storing it in variables to create a personalized summary report.
