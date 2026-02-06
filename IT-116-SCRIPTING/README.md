@@ -42,6 +42,9 @@ print("Name:", Name)
 print("Favorite Music:", Favorite_Music)
 ```
 
+### **Execution Output**
+![Script running in IDLE](hw2.output.png)
+
 # 🧠 Reflection on Learning 
 - While working on this script, I focused on the programmatic flow. I learned that how you ask for data (the "prompt") is just as important as how you display it. By adding a divider to distinguish the "Input Phase" from the "Report Phase," I am practicing a fundamental step in creating  professional, user-friendly terminal applications. 
 
