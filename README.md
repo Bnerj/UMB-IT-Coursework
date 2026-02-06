@@ -20,6 +20,7 @@ Welcome to my central repository for my Information Technology coursework at UMB
 
 🐧 LINUX AND SYSTEM ADMIN (IT110/244)
 - File organization Project: Automated the cleanup of 100+ disorganized student files using Bash commands (awk, mv, lv).
+
 - Tehcnical Analysis: Documented the transition from "unstructured data" to a scalable naming convention
 
 # 🛠️ TECH STACK & TOOLS
