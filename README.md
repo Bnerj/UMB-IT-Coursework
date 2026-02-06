@@ -8,11 +8,11 @@ Welcome to my central repository for my Information Technology coursework at UMB
 
 | Course Code | Subject | Key Focus Areas | 
 | :--- | :--- | :--- |
-|**IT-114 | Introduction to Java | Object-orinted Programming & Data Structure 
-|**IT-116 | Introduction to Scripting | Automation, Data Input/Output, Variable Logic |   
-|**IT-240 | Web Fluency | Web Development, Shell Scripting, CLI | 
-|**IT-244 | Introduction to Linux/Unix | System Adminstration, Shell Scripting, CLI | 
-|**IT-246 | Introduction to Networks | OSI Model, TCP/IP, Routing & Switching | 
+|[**IT-114](./IT-114-JAVA)| Introduction to Java | Object-orinted Programming & Data Structure 
+|[**IT-116](./IT-116-SCRIPTING) | Introduction to Scripting | Automation, Data Input/Output, Variable Logic |   
+|[**IT-240](./IT-240-WEB_FLUENCY) | Web Fluency | Web Development, Shell Scripting, CLI | 
+|[**IT-244](./IT-244-LINUX) | Introduction to Linux/Unix | System Adminstration, Shell Scripting, CLI | 
+|[**IT-246](./IT-246-NETWORKS) | Introduction to Networks | OSI Model, TCP/IP, Routing & Switching | 
 
 # 📂 PROJECT HIGHLIGHTS 
 🐍 PYTHON (IT-116)
