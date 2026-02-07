@@ -15,10 +15,10 @@ Welcome to my central repository for my Information Technology coursework at UMB
 |[**IT-246](./IT-246-NETWORKS) | Introduction to Networks | OSI Model, TCP/IP, Routing & Switching | 
 
 # 📂 PROJECT HIGHLIGHTS 
-🐍 PYTHON (IT-116)
+🐍 **PYTHON (IT-116)**
 - **User Data Collector:** a foundational script demonstrating input handaling and sequential logic in the Python environment
 
-🐧 LINUX AND SYSTEM ADMIN (IT110/244)
+🐧 **LINUX AND SYSTEM ADMIN (IT110/244)**
 - **File organization Project:** Automated the cleanup of 100+ disorganized student files using Bash commands (awk, mv, lv).
 
 - **Tehcnical Analysis:** Documented the transition from "unstructured data" to a scalable naming convention
