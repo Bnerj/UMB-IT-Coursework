@@ -23,7 +23,7 @@ Welcome to my central repository for my Information Technology coursework at UMB
 🐧 **LINUX AND SYSTEM ADMIN (IT110/244)**
 - **[IT-110-Project1-FileReview-](https://github.com/bnerj/IT110-Project1-FileReview-):** Automated the cleanup of 100+ disorganized student files using Bash commands (awk, mv, lv).
 
-- **Tehcnical Analysis:** Documented the transition from "unstructured data" to a scalable naming convention
+- **Technical Analysis:** Documented the transition from "unstructured data" to a scalable naming convention
 
 # 🛠️ TECH STACK & TOOLS
 - **Languages:** Python, Java, Bash, HTML/CSS
