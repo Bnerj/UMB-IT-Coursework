@@ -14,17 +14,19 @@ Welcome to my central repository for my Information Technology coursework at UMB
 |[**IT-244](./IT-244-LINUX) | Introduction to Linux/Unix | System Administration, Shell Scripting, CLI | 
 |[**IT-246](./IT-246-NETWORKS) | Introduction to Networks | OSI Model, TCP/IP, Routing & Switching | 
 
-# 📂 PROJECT HIGHLIGHTS 
-🐍 **PYTHON (IT-116)**
-- **User Data Collector:** a foundational script demonstrating input handaling and sequential logic in the Python environment
+---
+
+## 📂 PROJECT HIGHLIGHTS 
+### 🐍 PYTHON (IT-116)**
+- **[User Data Collector](./IT-116-SCRIPTING/):** a foundational script demonstrating input handaling and sequential logic in the Python environment
 
 🐧 **LINUX AND SYSTEM ADMIN (IT110/244)**
-- **File organization Project:** Automated the cleanup of 100+ disorganized student files using Bash commands (awk, mv, lv).
+- **[IT-110-Project1-FileReview-](https://github.com/bnerj/IT110-Project1-FileReview-):** Automated the cleanup of 100+ disorganized student files using Bash commands (awk, mv, lv).
 
 - **Tehcnical Analysis:** Documented the transition from "unstructured data" to a scalable naming convention
 
 # 🛠️ TECH STACK & TOOLS
-- **Languages:** Python, Java, Bash
+- **Languages:** Python, Java, Bash, HTML/CSS
 - **Environment:** macOS (Local), UMB PE15 Server (Remote/SSH), Ubuntu
 - **Tools:** Eclipse, IDLE, Filezilla(SFTP), Git/GitHub
 
